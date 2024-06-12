@@ -10628,7 +10628,7 @@ span.x-visible-desktop {
 .cs-mll,.cs-mhl,.cs-mal {
   margin-left: 2em !important
 }
-
+/*
 @font-face {
   font-family: 'FontAwesome';
   font-style: normal;
@@ -10683,6 +10683,37 @@ span.x-visible-desktop {
   font-weight: normal;
   src: url("/web/20220326104251im_/http://barbershopstyles.com/wp-content/themes/x/framework/fonts/font_awesome/fa-brands-400.eot");
   src: url("/web/20220326104251im_/http://barbershopstyles.com/wp-content/themes/x/framework/fonts/font_awesome/fa-brands-400.eot#iefix") format("embedded-opentype"),url("/web/20220326104251im_/http://barbershopstyles.com/wp-content/themes/x/framework/fonts/font_awesome/fa-brands-400.woff2") format("woff2"),url("/web/20220326104251im_/http://barbershopstyles.com/wp-content/themes/x/framework/fonts/font_awesome/fa-brands-400.woff") format("woff"),url("/web/20220326104251im_/http://barbershopstyles.com/wp-content/themes/x/framework/fonts/font_awesome/fa-brands-400.ttf") format("truetype"),url("/web/20220326104251im_/http://barbershopstyles.com/wp-content/themes/x/framework/fonts/font_awesome/fa-brands-400.svg#fontawesome") format("svg")
+} 
+*/
+
+/* integrity-dark-stacks.css */
+
+/* Replace the following font-face declarations */
+@font-face {
+  font-family: 'FontAwesome';
+  src: url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/webfonts/fa-solid-900.woff2') format('woff2'),
+       url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/webfonts/fa-solid-900.woff') format('woff'),
+       url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/webfonts/fa-solid-900.ttf') format('truetype');
+  font-weight: 900;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'FontAwesome';
+  src: url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/webfonts/fa-regular-400.woff2') format('woff2'),
+       url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/webfonts/fa-regular-400.woff') format('woff'),
+       url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/webfonts/fa-regular-400.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'FontAwesome';
+  src: url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/webfonts/fa-brands-400.woff2') format('woff2'),
+       url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/webfonts/fa-brands-400.woff') format('woff'),
+       url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/webfonts/fa-brands-400.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
 }
 
 [data-x-icon-o],[data-x-icon-l],[data-x-icon-s],[data-x-icon-b],[data-x-icon],[data-x-fa-pro-icon],[class*="x-icon-"] {
