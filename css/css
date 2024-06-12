@@ -1,0 +1,33 @@
+@font-face {
+  font-family: 'ABeeZee';
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://web.archive.org/web/20220326104248im_/http://fonts.gstatic.com/s/abeezee/v20/esDR31xSG-6AGleN2tWklQ.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Lato';
+  font-style: italic;
+  font-weight: 300;
+  src: url(https://web.archive.org/web/20220326104248im_/http://fonts.gstatic.com/s/lato/v22/S6u_w4BMUTPHjxsI9w2_Gwfo.ttf) format('truetype');
+}
+
+/*
+     FILE ARCHIVED ON 10:42:48 Mar 26, 2022 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 05:58:11 Jun 12, 2024.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 0.557
+  exclusion.robots: 0.107
+  exclusion.robots.policy: 0.098
+  esindex: 0.01
+  cdx.remote: 6.294
+  LoadShardBlock: 43.551 (3)
+  PetaboxLoader3.datanode: 51.198 (4)
+  load_resource: 75.159
+  PetaboxLoader3.resolve: 35.143
+*/
